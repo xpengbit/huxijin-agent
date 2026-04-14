@@ -15,7 +15,7 @@ from pathlib import Path
 # ============================================================
 
 # 从浏览器 F12 → Network → 任意请求 → 复制 Cookie header
-COOKIE="SCF=Am3BuNxMXe__WuGhW6XDRxqDb1PmhgJduwXbeRFzr0JSfiX-luZ7MAvTJ9caDD22ZTBJ8JFFccPiUTftX8mIhyw.; SUB=_2A25E2cZCDeRhGedG6lcV-SrKyT6IHXVnl0eKrDV6PUJbktANLWjikW1NUXtKe1wUQBFn7qWCl-cKkPikwEyuU2M_; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WF10B-qmhwU38m._M3urBmd5NHD95Qp1h2fSh.XSozEWs4DqcjZwGWLdJUkeo57Sntt; SSOLoginState=1776137746; ALF=1778729746; WEIBOCN_FROM=1110006030; MLOGIN=1; _T_WM=72772429359; XSRF-TOKEN=15a3ad; mweibo_short_token=01a2a45cc6; M_WEIBOCN_PARAMS=luicode%3D20000174%26lfid%3D102803%26uicode%3D20000174"
+COOKIE = "YOUR_COOKIE_HERE"
 # 胡锡进的微博 UID（登录后访问他主页 URL 里的数字）
 # 例如 https://weibo.com/u/1974576991 → UID = 1974576991
 UID = "1989660417"
